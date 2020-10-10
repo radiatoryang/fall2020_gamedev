@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/groundedSquareDemoScene.unity
+    guid: 98d76045b599dc34ca03963ba8bfb46e
+  - enabled: 1
+    path: Assets/Scenes/lineOfSightDemoScene.unity
+    guid: 6c2f17b975835354092ec860d2b7a2d7
+  - enabled: 1
+    path: Assets/Scenes/mouseAimDemoScene.unity
+    guid: e9159908d77d86947b9417acc9117bca
   m_configObjects: {}
